@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated vector store — rebuilt from ingest scripts
+chroma_store/
+
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
