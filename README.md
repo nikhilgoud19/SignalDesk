@@ -120,7 +120,7 @@ signaldesk/
 ### 1. Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/signaldesk.git
+git clone https://github.com/nikhilgoud19/signaldesk.git
 cd signaldesk
 pip install -r requirements.txt   # or: uv sync
 ```
